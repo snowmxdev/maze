@@ -40,4 +40,3 @@ if marked_image is not None:
         st.image(pathed_image, channels="RGB", width=800)
 
 
-        
