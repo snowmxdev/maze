@@ -39,3 +39,4 @@ if marked_image is not None:
         maze.drawPath(pathed_image, path, path_thickness)
         st.image(pathed_image, channels="RGB", width=800)
 
+
